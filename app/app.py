@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Hello, World! This is a Flask App Tier-3 Devops Project"
+    return "Hello, World! This is a Flask App Tier-3 Devops Project !"
 
 
 if __name__ == "__main__":
