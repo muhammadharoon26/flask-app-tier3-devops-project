@@ -27,3 +27,4 @@ jobs:
       with:
         context: .
         tags: muhammadharoon26/flask-app-tier3-devops-project:latest
+        push: true
